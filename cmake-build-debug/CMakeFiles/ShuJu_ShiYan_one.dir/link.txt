@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ShuJu_ShiYan_one.dir/main.cpp.o  -o ShuJu_ShiYan_one 
